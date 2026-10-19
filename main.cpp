@@ -17,7 +17,7 @@ int main() {
     const double INR_Pirkti  = 101.3862;
     const double INR_Parduoti = 107.854.6;
 
-    int meniuPasirinkimas;
+    int meniuPasirinki .mas;
 
     do {
         // Pagrindinis MENIU
